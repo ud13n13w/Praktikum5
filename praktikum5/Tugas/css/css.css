@@ -1,0 +1,39 @@
+.{
+	padding: 0;
+	margin: 0;
+}
+
+.tabel{
+		width: 100%
+		height: 100%;
+		margin: 0 auto;
+		padding-top: 20px;
+		padding-bottom: 30px;
+
+		text-align: center;
+		color: #232323;	
+		border: #ccc 1px solid;
+		border-collapse: collapse;
+}
+
+	.tabel td{
+		border: 1px solid #999;
+		padding: 8px 40px;
+		text-align: left;
+	}
+
+		#con_button{
+			text-align: center;
+		}
+
+		.btn_login{
+			width: 100px;
+		}
+
+		.btn_reset{
+			width: 100px;
+		}
+
+		.tbl_hd{
+			background-color: #89D8F4;
+		}
